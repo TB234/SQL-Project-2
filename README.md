@@ -18,7 +18,8 @@ Danny has shared with you 3 key datasets for this case study in addition to the 
     menu
     members
 
-    ![danny_res_erd](danny_restaurant_erd.png)
+![danny_res_erd](danny_restaurant_erd.PNG)
+   
 
 
-Credit:Danny's  https://8weeksqlchallenge.com/case-study-1/
+Credit: https://8weeksqlchallenge.com/case-study-1/
